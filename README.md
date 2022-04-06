@@ -70,9 +70,4 @@ One additional item we could add based on the current information that we have i
 
 ### Example 2: Votes for a Yes/No Ordinance ###
 
-<<<<<<< HEAD
 Another item that could be adapted to this script, is if there was an ordinance that the voter only had two options for. This would basically be a True or False review of the vote. One example here would be if a school district requested additional property taxes levies to help pay for repairs. The voter would go to the polls and vote yes (true) or no (false).
-=======
-Another item that could be adapted to this script, is if there was an ordinance that the voter only had two options for. This would basically be a True or False review of the vote. One example here would be if a school district requested additional property taxes levies to help pay for repairs. The voter would go to the polls and vote yes (true) or no (false). 
-   
->>>>>>> 9beef16be631153a86a6333f6af957abd11c44e1
