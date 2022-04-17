@@ -42,8 +42,8 @@ Using the same row function as the total vote count, we can nest an "if-statemen
       
 In previous code, we were able to determine the total amount of votes per county and thier percentages. Using that data, we can determine which county had the largest voter turnout. 
 
-![largest_voter_turnout](https://user-images.githubusercontent.com/100856534/162022229-7597ed3b-4b96-4351-96ee-514708a64473.png)
-      
+![largest_voter_turnout](https://user-images.githubusercontent.com/100856534/163732717-1f4bc8a9-9f6b-4f8c-8542-abd0a19a90fd.png)
+
 4) Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
    
       * Charles Casper Stockham had $85,213 total votes, which was 23% of the vote.
